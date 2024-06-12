@@ -7,119 +7,17 @@ layout: post
 mermaid: true
 ---
 
-This jekyll-theme supports [MathJax](https://www.mathjax.org/) to render footnotes
-in markdown.
+__PythonOS is a developer program that will be launched in December 2023 and will allow developers to experience a simulated simple operating system.__
 
-e.g.,
+We are working hard to develop PythonOS so that everyone can experience a different world.
 
-```markdown
-The well known Pythagorean theorem $x^2 + y^2 = z^2$ was
-proved to be invalid for other exponents[^1].
-Meaning the next equation has no integer solutions:
+You can learn about our [history](https://www.xyehr.cn/#timeline)
 
-$$ x^n + y^n = z^n $$
-```
+[Fill out the app form now to become our developer](https://airtable.com/app4kvVeOe2p7NIIf/pagTgearHfOHwZDOk/form)
 
-The well known Pythagorean theorem $x^2 + y^2 = z^2$ was
-proved to be invalid for other exponents[^1].
-Meaning the next equation has no integer solutions:
+Share this post:
 
-$$ x^n + y^n = z^n $$
-
-Long contents
--------------
-
-long contents .....
-
-1. a
-2. b
-3. c
-4. d
-
-### Sub title 1
-
-### Sub title 2
-
-### Sub title 3
-
-Long contents
--------------
-
-long contents .....
-
-1. a
-2. b
-3. c
-4. d
-
-### Sub title 1
-
-### Sub title 2
-
-### Sub title 3
-
-Long contents
--------------
-
-long contents .....
-
-1. a
-2. b
-3. c
-4. d
-
-### Sub title 1
-
-### Sub title 2
-
-### Sub title 3
-
-Long contents
--------------
-
-long contents .....
-
-1. a
-2. b
-3. c
-4. d
-
-### Sub title 1
-
-### Sub title 2
-
-### Sub title 3
-
-Long contents
--------------
-
-long contents .....
-
-1. a
-2. b
-3. c
-4. d
-
-### Sub title 1
-
-### Sub title 2
-
-### Sub title 3
-
-Long contents
--------------
-
-long contents .....
-
-1. a
-2. b
-3. c
-4. d
-
-### Sub title 1
-
-### Sub title 2
-
-### Sub title 3
-
-[^1]: [https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem](https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem)
+<p align="left">
+<a href="https://x.com/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" height="30" width="40" alt="X"></a>
+<a href="https://reddit.com/" target="blank"><img src="https://www.svgrepo.com/show/354270/reddit-icon.svg" height="30" width="40" alt="Reddit"></a>
+</p>

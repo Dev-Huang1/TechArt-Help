@@ -1,8 +1,8 @@
 ---
-title: Using Footnotes
-author: Tao He
-date: 2023-12-12
-category: Jekyll
+title: Join our developer community
+author: PythonOS
+date: 2024-6-13
+category: New
 layout: post
 mermaid: true
 ---

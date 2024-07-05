@@ -1,7 +1,7 @@
 # Configurations
-title:            PythonOS Support
-longtitle:        PythonOS Support
-author:           PythonOS
+title:            Tech-Art Help Docs
+longtitle:        Tech-Art Help Docs
+author:           Tech-Art Studio
 email:            www@xyehr.cn
 description: >
   Build Jekyll site with the GitBook style.
@@ -9,7 +9,7 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://support.xyehr.cn'
+url:              'https://help.xyehr.cn'
 baseurl:          ''
 rss:              RSS
 

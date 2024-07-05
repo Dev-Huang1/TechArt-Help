@@ -1,4 +1,11 @@
-# How to use Air-Captcha?
+---
+title: How to use Air-Captcha?
+author: Tech-Art
+date: 2024-07-05
+category: Jekyll
+layout: post
+mermaid: true
+---
 
 **First, add the following script code to the <head> tag of your HTML page.**
 
@@ -14,3 +21,12 @@
 ```
 
 Then you should be able to see the Air Captcha verification box.
+
+### Share this post:
+
+<p align="left">
+<a href="https://x.com/" target="blank"><img src="https://cdn.xyehr.cn/images/svg/twitter.svg" height="40" width="50" alt="X"></a>
+<a href="https://reddit.com/" target="blank"><img src="https://cdn.xyehr.cn/images/svg/reddit.svg" height="40" width="50" alt="Reddit"></a>
+<a href="https://linkedin.com" target="blank"><img src="https://cdn.xyehr.cn/images/svg/linkedin.svg" height="40" width="50" alt="LinkedIn"></a>
+<a href="https://facebook.com" target="blank"><img src="https://cdn.xyehr.cn/images/svg/facebook-svgrepo-com.svg" height="40" width="50" alt="Facebook"></a>
+</p>

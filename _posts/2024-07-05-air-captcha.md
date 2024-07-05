@@ -22,9 +22,7 @@ mermaid: true
 
 Then you should be able to see the Air Captcha verification box.
 
-[Report problem](mailto:devhuang000@outlook.com)
-
-[Wiki](https://github.com/Dev-Huang1/Air-Captcha/wiki)
+[Report problem](mailto:devhuang000@outlook.com) [Wiki](https://github.com/Dev-Huang1/Air-Captcha/wiki)
 
 ### Share this post:
 

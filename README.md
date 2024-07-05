@@ -1,5 +1,5 @@
 ---
 layout: home
-title: PythonOS Support
+title: Home
 permalink: /
 ---

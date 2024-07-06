@@ -34,7 +34,7 @@ Then you should be able to see the Air Captcha verification box.
 </p>
 
 <script src="https://giscus.app/client.js"
-        data-repo="Dev-Huang1/TechArt-Support"
+        data-repo="Dev-Huang1/TechArt-Help"
         data-repo-id="R_kgDOLajIlw"
         data-category="Announcements"
         data-category-id="DIC_kwDOLajIl84Cgmrp"

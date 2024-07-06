@@ -32,3 +32,19 @@ Then you should be able to see the Air Captcha verification box.
 <a href="https://linkedin.com" target="blank"><img src="https://cdn.xyehr.cn/images/svg/linkedin.svg" height="40" width="50" alt="LinkedIn"></a>
 <a href="https://facebook.com" target="blank"><img src="https://cdn.xyehr.cn/images/svg/facebook-svgrepo-com.svg" height="40" width="50" alt="Facebook"></a>
 </p>
+
+<script src="https://giscus.app/client.js"
+        data-repo="Dev-Huang1/TechArt-Support"
+        data-repo-id="R_kgDOLajIlw"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOLajIl84Cgmrp"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>

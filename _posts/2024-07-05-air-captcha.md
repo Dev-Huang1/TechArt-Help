@@ -7,6 +7,23 @@ layout: post
 mermaid: true
 ---
 
+## v2 version:
+
+**First, add this code to the <body> tag of your HTML file.**
+
+```html
+<div id="air-captcha"></div>
+<button id="submit-button" disabled>Submit</button>
+```
+
+**Then, add this code below the previous code.**
+
+```html
+<script src="https://captcha.xyehr.cn/captcha/v2/api.js">
+```
+
+## v1 version:
+
 **First, add the following script code to the <head> tag of your HTML page.**
 
 ```html

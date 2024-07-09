@@ -19,7 +19,7 @@ mermaid: true
 **Then, add this code below the previous code.**
 
 ```html
-<script src="https://captcha.xyehr.cn/captcha/v2/api.js">
+<script src="https://captcha.xyehr.cn/captcha/v2/api.js" defer></script>
 ```
 
 ## v1 version:

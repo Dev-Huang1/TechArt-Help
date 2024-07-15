@@ -1,5 +1,5 @@
 ---
-title: How to use Air-Captcha?
+title: How to use One Captcha?
 author: Tech-Art
 date: 2024-07-05
 category: Jekyll
@@ -12,7 +12,7 @@ mermaid: true
 **First, add this code to the <body> tag of your HTML file.**
 
 ```html
-<div id="air-captcha"></div>
+<div id="one-captcha"></div>
 <button id="submit-button" disabled>Submit</button>
 ```
 
@@ -24,20 +24,7 @@ mermaid: true
 
 ## v1 version:
 
-**First, add the following script code to the <head> tag of your HTML page.**
-
-```html
-<script src="https://captcha.xyehr.cn/captcha/v1/api.js"></script>
-```
-
-**Then, add the following code inside the <body> tag.**
-
-```html
-<div id="air-captcha"></div>
-<button id="submit-button" disabled>Submit</button>
-```
-
-Then you should be able to see the Air Captcha verification box.
+One Captcha v1 has been disabled by us because its protection level is not very secure.
 
 [Report problem](mailto:devhuang000@outlook.com) [Wiki](https://github.com/Dev-Huang1/Air-Captcha/wiki)
 
